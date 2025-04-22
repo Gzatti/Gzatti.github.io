@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Fundo -->
+  <rect width="64" height="64" fill="#ffffff"/>
+
+  <!-- Letra Z em verde -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="36" font-family="Arial" fill="#28a745">Z</text>
+
+  <!-- Folha verde estilizada -->
+  <path d="M48,20 C56,28 56,44 48,48 C44,40 40,32 48,20 Z" fill="#28a745"/>
+</svg>
