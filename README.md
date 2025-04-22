@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Este repositório contém o código-fonte do meu si
 
 ## 🌐 Acesse
 
-Você pode visualizar o portfólio online aqui: [Gzatti.github.io]
+Você pode visualizar o portfólio online aqui: [https://gzatti.github.io/]
 
 ## 🛠️ Tecnologias Utilizadas
 
